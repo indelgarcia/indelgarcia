@@ -10,7 +10,8 @@
 
 📫 Let's Connect!
 📩 Email: indegl7@gmail.com
-🔗 LinkedIn: linkedin.com/in/indel-garcia
+🔗 LinkedIn: www.linkedin.com/in/indel-garcia/
+
 
 <!---
 indelgarcia/indelgarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
