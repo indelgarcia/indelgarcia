@@ -1,4 +1,4 @@
-🚀 Data Scientist
+🚀 ## Data Scientist
 
 - Passionate about analyzing big data, and creating impactful software solutions.
 
@@ -6,7 +6,7 @@
 
 - Interests in big data, machine learning, and AI
 
-📌 Projects
+📌 ## Projects
 
 - Recidivism Prediction – Using machine learning to analyze and predict reoffending rates.
 
@@ -14,7 +14,7 @@
 
 - Police Department Crime Prediction – Developing models to forecast and visualize crime patterns.
 
-📫 Let's Connect!
+📫 ## Let's Connect!
 
 📩 Email: indegl7@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/indel-garcia/
