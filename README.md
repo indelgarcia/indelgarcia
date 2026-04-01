@@ -1,6 +1,6 @@
 🚀 ## Data Scientist
 
-- Passionate about analyzing big data, and creating impactful software solutions.
+- Passionate about analyzing big data and creating impactful software solutions.
 
 - Skilled in Python, Java, SQL, and various data science tools.
 
