@@ -1,8 +1,10 @@
-🚀 Aspiring Software Engineer & Data Scientist
+🚀 Data Scientist
 
 - Passionate about analyzing big data, and creating impactful software solutions.
 
 - Skilled in Python, Java, SQL, and various data science tools.
+
+- Interests in big data, machine learning, and AI
 
 📌 Projects
 
@@ -10,7 +12,7 @@
 
 - Popcorn Picks (in Progress) – A Letterboxd replication for movie lovers.
 
-- Police Department Crime Prediction (in Progress) – Developing models to forecast crime patterns.
+- Police Department Crime Prediction – Developing models to forecast and visualize crime patterns.
 
 📫 Let's Connect!
 
